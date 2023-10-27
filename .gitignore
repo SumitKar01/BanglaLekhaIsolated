@@ -5,3 +5,5 @@ BLI-env/*
 BanglaLekha-Isolated/
 BanglaLekha-Isolated/*
 BanglaLekha-Isolated.zip
+*.pth
+
